@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# SEO Optimization for Tele Latino Info
+# Actualización Febrero 2026
+Disallow: /tmp/
+Disallow: /admin/
+
+Sitemap: https://telelatino-guia.info/sitemap.xml
