@@ -6,4 +6,4 @@ Allow: /
 Disallow: /tmp/
 Disallow: /admin/
 
-Sitemap: https://telelatino-guia.info/sitemap.xml
+Sitemap: https://telelatino-mundial.info/sitemap.xml

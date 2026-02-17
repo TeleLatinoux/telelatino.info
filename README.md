@@ -1,6 +1,6 @@
 # Tele Latino Guía Oficial 2026
 
-Portal informativo y educativo sobre el ecosistema de streaming Tele Latino. Este repositorio contiene el código fuente del sitio web [telelatino-guia.info](https://telelatino-guia.info).
+Portal informativo y educativo sobre el ecosistema de streaming Tele Latino. Este repositorio contiene el código fuente del sitio web [telelatino-mundial.info](https://telelatino-mundial.info).
 
 ## 🚀 Características
 - **Optimización SEO**: Keywords de alto volumen integradas.
